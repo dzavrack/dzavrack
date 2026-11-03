@@ -1,13 +1,9 @@
-### Hi, I'm David 👋
-
-I'm a mechanical engineer who builds software tools for the physical world: CAD, CNC, additive manufacturing and, more and more, the AI that ties them together.
+I'm a mechanical engineer exploring the process of building software tools for the physical world: CAD, CNC, additive manufacturing and of course using the AI that ties it all together.
 
 - 🔧 **Mechanical engineering:** BS in Mechanical Engineering from the University of Tennessee. I worked on advanced additive manufacturing at **NAVSEA**, including on-site equipment installs overseas.
 - 🛠️ **Shop floor:** SolidWorks, Solid Edge, Mastercam, HAAS CNC, metal and polymer AM. I've also restored antique phonographs since 2019.
 - 🤖 **AI + engineering tools:** I build agents that call real engineering code (geometry checks, data pipelines) instead of guessing.
 - 🎷 **Jazz musician:** BA in Studio/Jazz Performance. I play gigs around East Tennessee, which is where the set list app came from.
-
-**Open to** solutions engineering, forward-deployed engineering and technical customer roles at companies building tools for manufacturing, hardware and defense.
 
 ### Projects
 
